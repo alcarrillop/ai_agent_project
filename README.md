@@ -47,7 +47,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-Configuration
+Configuration  
 Set up the OpenAI API key in your environment:
 ```
 export OPENAI_API_KEY="your_openai_api_key_here"
