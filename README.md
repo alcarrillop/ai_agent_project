@@ -36,28 +36,28 @@ Our vision for this project is to create a **replicant AI** that remembers every
    git clone https://github.com/your-username/ai_agent_project.git
    cd ai_agent_project
 Set up the virtual environment:
-
-bash
-Copy code
+```
 python3 -m venv agent_env_3_10
 source agent_env_3_10/bin/activate
-Install dependencies:
+```
 
-bash
-Copy code
+Install dependencies:
+```
 pip install -r requirements.txt
+```
+
 Configuration
 Set up the OpenAI API key in your environment:
-bash
-Copy code
+```
 export OPENAI_API_KEY="your_openai_api_key_here"
+```
 This API key is used to authenticate with the OpenAI API and should not be committed to the repository.
+
 Usage
 To run the chatbot script:
-
-bash
-Copy code
+```
 python src/scripts/chat_with_openai.py
+```
 This script will prompt you for input and generate a response from the AI.
 
 Roadmap
