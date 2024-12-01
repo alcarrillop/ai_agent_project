@@ -2,5 +2,25 @@
     {
         "interaction": "First test interaction",
         "response": "This is a response to the first test"
+    },
+    {
+        "interaction": "First test interaction",
+        "response": "This is a response to the first test"
+    },
+    {
+        "interaction": "First test interaction",
+        "response": "This is a response to the first test"
+    },
+    {
+        "interaction": "First test interaction",
+        "response": "This is a response to the first test"
+    },
+    {
+        "interaction": "Hello there",
+        "response": "This is an AI generated response."
+    },
+    {
+        "interaction": "Hey there",
+        "response": "!!"
     }
 ]
