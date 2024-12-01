@@ -47,14 +47,14 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-Configuration  
+### Configuration  
 Set up the OpenAI API key in your environment:
 ```
 export OPENAI_API_KEY="your_openai_api_key_here"
 ```
 This API key is used to authenticate with the OpenAI API and should not be committed to the repository.
 
-Usage  
+### Usage  
 To run the chatbot script:
 ```
 python src/scripts/chat_with_openai.py
