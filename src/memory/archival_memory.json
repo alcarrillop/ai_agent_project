@@ -1,29 +1,5 @@
 [
     {
-        "interaction": "First test interaction",
-        "response": "This is a response to the first test"
-    },
-    {
-        "interaction": "First test interaction",
-        "response": "This is a response to the first test"
-    },
-    {
-        "interaction": "First test interaction",
-        "response": "This is a response to the first test"
-    },
-    {
-        "interaction": "First test interaction",
-        "response": "This is a response to the first test"
-    },
-    {
-        "interaction": "Hello there",
-        "response": "This is an AI generated response."
-    },
-    {
-        "interaction": "Hey there",
-        "response": "!!"
-    },
-    {
         "interaction": "hey how are you",
         "response": "I am an artificial intelligence and do not have feelings, but thank you for asking. How can I assist you today?"
     },
