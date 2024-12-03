@@ -1,6 +1,6 @@
 import openai
 import os
-from persistent_memory import save_to_memory, load_memory
+from src.scripts.persistent_memory import save_to_memory, load_memory
 import signal
 import sys
 
